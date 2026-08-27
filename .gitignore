@@ -1,0 +1,20 @@
+# Ambienti virtuali Python
+.venv/
+venv/
+env/
+
+# File temporanei e compilati di Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurazione IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# File di sistema (Mac / Windows)
+.DS_Store
+Thumbs.db
+
+# Output generati automaticamente dai nostri script
+outputs/

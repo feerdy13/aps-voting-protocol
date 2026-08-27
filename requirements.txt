@@ -1,0 +1,2 @@
+# Libreria crittografica principale (RSA, AES, Hashing, Firme)
+cryptography>=41.0.0
